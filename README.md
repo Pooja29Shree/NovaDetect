@@ -86,9 +86,8 @@ Our aim is to automate the detection process across diverse terrains on the Moon
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/Pooja29Shree/NovaDetect.git
+git clone https://github.com/shreya-13-04/NovaDetect.git
 cd NovaDetect
-
 ```
 
 2. **Install Dependencies**
