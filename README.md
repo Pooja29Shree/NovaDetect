@@ -1,4 +1,5 @@
 #  NovaDetect: Lunar Landslide & Boulder Detection using Chandrayaan Imagery
+"Decoding the Moon, one slope at a time." NovaDetect is building a novel AI-powered system to detect lunar landslides and boulders using Chandrayaan imagery, combining vision, terrain modeling, and geospatial insights for safer space exploration.
 
 #  Pipeline
 ![Pipeline](NovaDetect.png)
